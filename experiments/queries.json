@@ -1,0 +1,177 @@
+[
+  {
+    "id": "q01",
+    "query": "Who is Ebenezer Scrooge and what is his attitude toward Christmas at the beginning of the story?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "A"
+  },
+  {
+    "id": "q02",
+    "query": "Describe Scrooge's relationship with his deceased business partner Jacob Marley.",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "A"
+  },
+  {
+    "id": "q03",
+    "query": "What warning does Marley's ghost give to Scrooge and what chains does he carry?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "A"
+  },
+  {
+    "id": "q04",
+    "query": "What scenes does the Ghost of Christmas Past show Scrooge from his childhood?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "A"
+  },
+  {
+    "id": "q05",
+    "query": "Who is Belle and what is her connection to Scrooge's past?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "A"
+  },
+  {
+    "id": "q06",
+    "query": "Describe the Cratchit family Christmas dinner. Who are the family members present?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "B"
+  },
+  {
+    "id": "q07",
+    "query": "What does the Ghost of Christmas Present reveal about Tiny Tim's future?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "B"
+  },
+  {
+    "id": "q08",
+    "query": "What scenes does the Ghost of Christmas Yet to Come show Scrooge?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "B"
+  },
+  {
+    "id": "q09",
+    "query": "How does Scrooge behave on Christmas morning after the visits from the three spirits?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "B"
+  },
+  {
+    "id": "q10",
+    "query": "Who is Scrooge's nephew Fred and how does he treat Scrooge throughout the story?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "A"
+  },
+  {
+    "id": "q11",
+    "query": "How does Scrooge's character transform from the beginning of the story to the end?",
+    "type": "analytical",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q12",
+    "query": "Compare Scrooge's interactions with the Ghost of Christmas Past versus the Ghost of Christmas Yet to Come.",
+    "type": "analytical",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q13",
+    "query": "What is the relationship between Scrooge and Bob Cratchit, and how does it change throughout the story?",
+    "type": "analytical",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q14",
+    "query": "How do the three spirits differ in their methods of teaching Scrooge about the consequences of his behavior?",
+    "type": "analytical",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q15",
+    "query": "Trace Scrooge's emotional journey from his encounter with Marley's ghost through to Christmas morning.",
+    "type": "analytical",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q16",
+    "query": "What role does Fezziwig play in the story and how does his generosity contrast with Scrooge's behavior?",
+    "type": "analytical",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q17",
+    "query": "How does Scrooge's attitude toward Tiny Tim evolve across the visits from the different spirits?",
+    "type": "analytical",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q18",
+    "query": "What connections exist between the scenes shown by each of the three spirits?",
+    "type": "analytical",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q19",
+    "query": "How does the theme of isolation versus community develop throughout the entire story?",
+    "type": "thematic",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q20",
+    "query": "What is the significance of the supernatural elements in conveying the moral message of the story?",
+    "type": "thematic",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q21",
+    "query": "How does Dickens use the contrast between wealth and poverty to drive the narrative?",
+    "type": "thematic",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q22",
+    "query": "What is the role of memory and nostalgia in Scrooge's redemption?",
+    "type": "thematic",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q23",
+    "query": "Describe all the different Christmas celebrations depicted in the story.",
+    "type": "factual",
+    "requires_both_halves": true,
+    "half": "both"
+  },
+  {
+    "id": "q24",
+    "query": "Who are the two ragged children hidden beneath the Ghost of Christmas Present's robe and what do they represent?",
+    "type": "factual",
+    "requires_both_halves": false,
+    "half": "B"
+  },
+  {
+    "id": "q25",
+    "query": "How does the story begin and how does it end? What has changed?",
+    "type": "analytical",
+    "requires_both_halves": true,
+    "half": "both"
+  }
+]

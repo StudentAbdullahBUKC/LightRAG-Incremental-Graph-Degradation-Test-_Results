@@ -1,0 +1,231 @@
+{
+  "total_results": 25,
+  "valid_results": 25,
+  "parse_errors": 0,
+  "similarity_stats": {
+    "mean": 1.0,
+    "min": 1.0,
+    "max": 1.0,
+    "auto_tie_count": 25,
+    "auto_tie_pct": 100.0,
+    "threshold": 0.95
+  },
+  "all_queries": {
+    "label": "ALL QUERIES",
+    "n": 25,
+    "full_wins": 0,
+    "inc_wins": 0,
+    "ties": 25,
+    "full_pct": 0.0,
+    "inc_pct": 0.0,
+    "tie_pct": 100.0,
+    "per_dimension": {
+      "comprehensiveness": {
+        "full": 0,
+        "inc": 0,
+        "tie": 25,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      },
+      "factual_specificity": {
+        "full": 0,
+        "inc": 0,
+        "tie": 25,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      },
+      "coherence": {
+        "full": 0,
+        "inc": 0,
+        "tie": 25,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      }
+    }
+  },
+  "cross_document": {
+    "label": "CROSS-DOCUMENT QUERIES (requires both halves)",
+    "n": 14,
+    "full_wins": 0,
+    "inc_wins": 0,
+    "ties": 14,
+    "full_pct": 0.0,
+    "inc_pct": 0.0,
+    "tie_pct": 100.0,
+    "per_dimension": {
+      "comprehensiveness": {
+        "full": 0,
+        "inc": 0,
+        "tie": 14,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      },
+      "factual_specificity": {
+        "full": 0,
+        "inc": 0,
+        "tie": 14,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      },
+      "coherence": {
+        "full": 0,
+        "inc": 0,
+        "tie": 14,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      }
+    }
+  },
+  "single_document": {
+    "label": "SINGLE-DOCUMENT QUERIES",
+    "n": 11,
+    "full_wins": 0,
+    "inc_wins": 0,
+    "ties": 11,
+    "full_pct": 0.0,
+    "inc_pct": 0.0,
+    "tie_pct": 100.0,
+    "per_dimension": {
+      "comprehensiveness": {
+        "full": 0,
+        "inc": 0,
+        "tie": 11,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      },
+      "factual_specificity": {
+        "full": 0,
+        "inc": 0,
+        "tie": 11,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      },
+      "coherence": {
+        "full": 0,
+        "inc": 0,
+        "tie": 11,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      }
+    }
+  },
+  "by_type": {
+    "analytical": {
+      "label": "TYPE: analytical",
+      "n": 9,
+      "full_wins": 0,
+      "inc_wins": 0,
+      "ties": 9,
+      "full_pct": 0.0,
+      "inc_pct": 0.0,
+      "tie_pct": 100.0,
+      "per_dimension": {
+        "comprehensiveness": {
+          "full": 0,
+          "inc": 0,
+          "tie": 9,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        },
+        "factual_specificity": {
+          "full": 0,
+          "inc": 0,
+          "tie": 9,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        },
+        "coherence": {
+          "full": 0,
+          "inc": 0,
+          "tie": 9,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        }
+      }
+    },
+    "factual": {
+      "label": "TYPE: factual",
+      "n": 12,
+      "full_wins": 0,
+      "inc_wins": 0,
+      "ties": 12,
+      "full_pct": 0.0,
+      "inc_pct": 0.0,
+      "tie_pct": 100.0,
+      "per_dimension": {
+        "comprehensiveness": {
+          "full": 0,
+          "inc": 0,
+          "tie": 12,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        },
+        "factual_specificity": {
+          "full": 0,
+          "inc": 0,
+          "tie": 12,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        },
+        "coherence": {
+          "full": 0,
+          "inc": 0,
+          "tie": 12,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        }
+      }
+    },
+    "thematic": {
+      "label": "TYPE: thematic",
+      "n": 4,
+      "full_wins": 0,
+      "inc_wins": 0,
+      "ties": 4,
+      "full_pct": 0.0,
+      "inc_pct": 0.0,
+      "tie_pct": 100.0,
+      "per_dimension": {
+        "comprehensiveness": {
+          "full": 0,
+          "inc": 0,
+          "tie": 4,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        },
+        "factual_specificity": {
+          "full": 0,
+          "inc": 0,
+          "tie": 4,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        },
+        "coherence": {
+          "full": 0,
+          "inc": 0,
+          "tie": 4,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        }
+      }
+    }
+  }
+}
