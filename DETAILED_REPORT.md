@@ -6,7 +6,7 @@ This study investigates how LightRAG's incremental update mechanism (`ainsert`) 
 
 By comparing a single-pass "Full" graph construction against a two-pass "Incremental" construction using the same corpus, we discovered a profound structural divergence: **the incremental graph loses ~37% of its entities and ~43% of its edges.**
 
-However, Despite this massive structural degradation, **retrieval quality is completely unaffected.** Across 25 diverse queries, the answers generated from both graphs were 100% byte-for-byte identical (similarity = 1.000). This report explores the root cause of this paradox.
+However, despite this massive structural degradation, **retrieval quality is completely unaffected.** Across 25 diverse queries, the answers generated from both graphs were 100% byte-for-byte identical (similarity = 1.000). This report explores the root cause of this paradox.
 
 ---
 
@@ -65,8 +65,6 @@ Despite the loss of 188 entities in the Incremental Graph, the query results pre
 | **Total Queries** | 25 |
 | **Ties (Identical Responses)** | 25 (100%) |
 | **Mean Response Similarity** | 1.000 |
-| **Full Graph Wins** | 0 |
-| **Incremental Graph Wins** | 0 |
 
 **Every single query produced exactly the same response from both graphs.** This held true even for Cross-Document queries that specifically demanded context from both halves of the split dataset. 
 

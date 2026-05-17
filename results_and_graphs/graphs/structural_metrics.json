@@ -1,0 +1,132 @@
+{
+  "full": {
+    "label": "Full (Control)",
+    "num_nodes": 506,
+    "num_edges": 491,
+    "density": 0.003843,
+    "num_components": 122,
+    "largest_component_size": 342,
+    "largest_component_pct": 67.6,
+    "isolated_nodes": 97,
+    "small_components": 117,
+    "avg_degree": 1.941,
+    "max_degree": 136,
+    "min_degree": 0,
+    "median_degree": 1,
+    "degree_std": 6.708,
+    "avg_clustering": 0.1061,
+    "entity_type_distribution": {
+      "UNKNOWN": 112,
+      "person": 99,
+      "location": 50,
+      "event": 29,
+      "concept": 28,
+      "object": 25,
+      "organization": 22,
+      "category": 20,
+      "product": 19,
+      "artifact": 17
+    }
+  },
+  "inc": {
+    "label": "Incremental (Test)",
+    "num_nodes": 318,
+    "num_edges": 281,
+    "density": 0.005575,
+    "num_components": 76,
+    "largest_component_size": 209,
+    "largest_component_pct": 65.7,
+    "isolated_nodes": 56,
+    "small_components": 71,
+    "avg_degree": 1.767,
+    "max_degree": 83,
+    "min_degree": 0,
+    "median_degree": 1,
+    "degree_std": 5.342,
+    "avg_clustering": 0.0836,
+    "entity_type_distribution": {
+      "UNKNOWN": 62,
+      "person": 58,
+      "location": 35,
+      "event": 27,
+      "object": 24,
+      "product": 16,
+      "organization": 13,
+      "category": 11,
+      "concept": 11,
+      "artifact": 8
+    }
+  },
+  "deltas": {
+    "num_nodes": {
+      "full": 506,
+      "inc": 318,
+      "delta": -188,
+      "pct": -37.15,
+      "flagged": true
+    },
+    "num_edges": {
+      "full": 491,
+      "inc": 281,
+      "delta": -210,
+      "pct": -42.77,
+      "flagged": true
+    },
+    "num_components": {
+      "full": 122,
+      "inc": 76,
+      "delta": -46,
+      "pct": -37.7,
+      "flagged": true
+    },
+    "largest_component_size": {
+      "full": 342,
+      "inc": 209,
+      "delta": -133,
+      "pct": -38.89,
+      "flagged": true
+    },
+    "largest_component_pct": {
+      "full": 67.6,
+      "inc": 65.7,
+      "delta": -1.9,
+      "pct": -2.81,
+      "flagged": false
+    },
+    "isolated_nodes": {
+      "full": 97,
+      "inc": 56,
+      "delta": -41,
+      "pct": -42.27,
+      "flagged": true
+    },
+    "small_components": {
+      "full": 117,
+      "inc": 71,
+      "delta": -46,
+      "pct": -39.32,
+      "flagged": true
+    },
+    "avg_degree": {
+      "full": 1.941,
+      "inc": 1.767,
+      "delta": -0.174,
+      "pct": -8.96,
+      "flagged": false
+    },
+    "density": {
+      "full": 0.003843,
+      "inc": 0.005575,
+      "delta": 0.0017,
+      "pct": 45.07,
+      "flagged": true
+    },
+    "avg_clustering": {
+      "full": 0.1061,
+      "inc": 0.0836,
+      "delta": -0.0225,
+      "pct": -21.21,
+      "flagged": true
+    }
+  }
+}

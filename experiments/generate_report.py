@@ -139,9 +139,6 @@ def generate_report():
     else:
         report.append("*No evaluation results available.*\n")
 
-    report.append("![Win Rate Overall](figures/win_rate_overall.png)\n")
-    report.append("![Win Rate by Type](figures/win_rate_by_type.png)\n")
-    
     report.append("## 5. Graph Topology Visualization\n")
     report.append("![Graph Topology](figures/graph_topology.png)\n")
 

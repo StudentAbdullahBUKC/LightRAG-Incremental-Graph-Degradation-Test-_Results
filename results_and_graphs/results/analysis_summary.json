@@ -1,0 +1,224 @@
+{
+  "total_results": 25,
+  "valid_results": 25,
+  "parse_errors": 0,
+  "all_queries": {
+    "label": "ALL QUERIES",
+    "n": 25,
+    "full_wins": 12,
+    "inc_wins": 13,
+    "ties": 0,
+    "full_pct": 48.0,
+    "inc_pct": 52.0,
+    "tie_pct": 0.0,
+    "per_dimension": {
+      "comprehensiveness": {
+        "full": 12,
+        "inc": 13,
+        "tie": 0,
+        "full_pct": 48.0,
+        "inc_pct": 52.0,
+        "tie_pct": 0.0
+      },
+      "factual_specificity": {
+        "full": 13,
+        "inc": 12,
+        "tie": 0,
+        "full_pct": 52.0,
+        "inc_pct": 48.0,
+        "tie_pct": 0.0
+      },
+      "coherence": {
+        "full": 0,
+        "inc": 0,
+        "tie": 25,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      }
+    }
+  },
+  "cross_document": {
+    "label": "CROSS-DOCUMENT QUERIES (requires both halves)",
+    "n": 14,
+    "full_wins": 5,
+    "inc_wins": 9,
+    "ties": 0,
+    "full_pct": 35.7,
+    "inc_pct": 64.3,
+    "tie_pct": 0.0,
+    "per_dimension": {
+      "comprehensiveness": {
+        "full": 5,
+        "inc": 9,
+        "tie": 0,
+        "full_pct": 35.7,
+        "inc_pct": 64.3,
+        "tie_pct": 0.0
+      },
+      "factual_specificity": {
+        "full": 9,
+        "inc": 5,
+        "tie": 0,
+        "full_pct": 64.3,
+        "inc_pct": 35.7,
+        "tie_pct": 0.0
+      },
+      "coherence": {
+        "full": 0,
+        "inc": 0,
+        "tie": 14,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      }
+    }
+  },
+  "single_document": {
+    "label": "SINGLE-DOCUMENT QUERIES",
+    "n": 11,
+    "full_wins": 7,
+    "inc_wins": 4,
+    "ties": 0,
+    "full_pct": 63.6,
+    "inc_pct": 36.4,
+    "tie_pct": 0.0,
+    "per_dimension": {
+      "comprehensiveness": {
+        "full": 7,
+        "inc": 4,
+        "tie": 0,
+        "full_pct": 63.6,
+        "inc_pct": 36.4,
+        "tie_pct": 0.0
+      },
+      "factual_specificity": {
+        "full": 4,
+        "inc": 7,
+        "tie": 0,
+        "full_pct": 36.4,
+        "inc_pct": 63.6,
+        "tie_pct": 0.0
+      },
+      "coherence": {
+        "full": 0,
+        "inc": 0,
+        "tie": 11,
+        "full_pct": 0.0,
+        "inc_pct": 0.0,
+        "tie_pct": 100.0
+      }
+    }
+  },
+  "by_type": {
+    "analytical": {
+      "label": "TYPE: analytical",
+      "n": 9,
+      "full_wins": 3,
+      "inc_wins": 6,
+      "ties": 0,
+      "full_pct": 33.3,
+      "inc_pct": 66.7,
+      "tie_pct": 0.0,
+      "per_dimension": {
+        "comprehensiveness": {
+          "full": 3,
+          "inc": 6,
+          "tie": 0,
+          "full_pct": 33.3,
+          "inc_pct": 66.7,
+          "tie_pct": 0.0
+        },
+        "factual_specificity": {
+          "full": 6,
+          "inc": 3,
+          "tie": 0,
+          "full_pct": 66.7,
+          "inc_pct": 33.3,
+          "tie_pct": 0.0
+        },
+        "coherence": {
+          "full": 0,
+          "inc": 0,
+          "tie": 9,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        }
+      }
+    },
+    "factual": {
+      "label": "TYPE: factual",
+      "n": 12,
+      "full_wins": 7,
+      "inc_wins": 5,
+      "ties": 0,
+      "full_pct": 58.3,
+      "inc_pct": 41.7,
+      "tie_pct": 0.0,
+      "per_dimension": {
+        "comprehensiveness": {
+          "full": 7,
+          "inc": 5,
+          "tie": 0,
+          "full_pct": 58.3,
+          "inc_pct": 41.7,
+          "tie_pct": 0.0
+        },
+        "factual_specificity": {
+          "full": 5,
+          "inc": 7,
+          "tie": 0,
+          "full_pct": 41.7,
+          "inc_pct": 58.3,
+          "tie_pct": 0.0
+        },
+        "coherence": {
+          "full": 0,
+          "inc": 0,
+          "tie": 12,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        }
+      }
+    },
+    "thematic": {
+      "label": "TYPE: thematic",
+      "n": 4,
+      "full_wins": 2,
+      "inc_wins": 2,
+      "ties": 0,
+      "full_pct": 50.0,
+      "inc_pct": 50.0,
+      "tie_pct": 0.0,
+      "per_dimension": {
+        "comprehensiveness": {
+          "full": 2,
+          "inc": 2,
+          "tie": 0,
+          "full_pct": 50.0,
+          "inc_pct": 50.0,
+          "tie_pct": 0.0
+        },
+        "factual_specificity": {
+          "full": 2,
+          "inc": 2,
+          "tie": 0,
+          "full_pct": 50.0,
+          "inc_pct": 50.0,
+          "tie_pct": 0.0
+        },
+        "coherence": {
+          "full": 0,
+          "inc": 0,
+          "tie": 4,
+          "full_pct": 0.0,
+          "inc_pct": 0.0,
+          "tie_pct": 100.0
+        }
+      }
+    }
+  },
+  "error_ids": []
+}
